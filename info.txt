@@ -1,1 +1,2 @@
-Django project
+* Django project
+- Build a simple web page using django and connect database with PostgreSQl.
